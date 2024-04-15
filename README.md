@@ -14,8 +14,8 @@
 
 ## Presentaciones
 
-- **B-prop**. Una [presentacion en pdf](backpropagation.pdf) con las nociones básicas desde la filosofía de las plataformas de diferenciación automñatica como TensorFlow o pyTorch
-- **CNN**. Una [presentaci´çon en pdf](convolucionales.pdf) con la arquitectura básica de las redes neuronales convolucionales (CNN)
+- **B-prop**. Una [presentación en pdf](backpropagation.pdf) con las nociones básicas desde la filosofía de las plataformas de diferenciación automñatica como TensorFlow o pyTorch
+- **CNN**. Una [presentación en pdf](convolucionales.pdf) con la arquitectura básica de las redes neuronales convolucionales (CNN)
 - **Transferencia de aprendizaje**. ¿Porque podemos usar modelos preentrenados? En [esta presentación en pdf](transfer_learning-2.pdf) queremos dar alguna intuición de porqué.
 
 ## Libretas
